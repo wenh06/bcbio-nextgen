@@ -32,3 +32,8 @@ cwl/*-workflow
 __pycache__
 .coverage
 .pytest_cache
+
+.vscode/
+.github/
+.readthedocs.yml
+.travis.yml
